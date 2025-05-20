@@ -1,0 +1,17 @@
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.DL.deps.json
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.DL.runtimeconfig.json
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.DL.dll
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.DL.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.Models.dll
+D:\10k\ChatApp.WebAPI\ChatApp.DL\bin\Debug\net8.0\ChatApp.Models.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.csproj.AssemblyReference.cache
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.AssemblyInfoInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.AssemblyInfo.cs
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.csproj.CoreCompileInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.csproj.Up2Date
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.dll
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\refint\ChatApp.DL.dll
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ChatApp.DL.genruntimeconfig.cache
+D:\10k\ChatApp.WebAPI\ChatApp.DL\obj\Debug\net8.0\ref\ChatApp.DL.dll

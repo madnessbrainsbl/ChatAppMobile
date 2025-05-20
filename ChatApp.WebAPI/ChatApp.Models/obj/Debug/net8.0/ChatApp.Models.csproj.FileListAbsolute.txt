@@ -1,0 +1,11 @@
+D:\10k\ChatApp.WebAPI\ChatApp.Models\bin\Debug\net8.0\ChatApp.Models.deps.json
+D:\10k\ChatApp.WebAPI\ChatApp.Models\bin\Debug\net8.0\ChatApp.Models.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Models\bin\Debug\net8.0\ChatApp.Models.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.AssemblyInfoInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.AssemblyInfo.cs
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.csproj.CoreCompileInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\refint\ChatApp.Models.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ChatApp.Models.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.Models\obj\Debug\net8.0\ref\ChatApp.Models.dll

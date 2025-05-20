@@ -1,0 +1,173 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.Android\\ChatApp.Mobile.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.Android\\ChatApp.Mobile.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.Android\\ChatApp.Mobile.Android.csproj",
+        "projectName": "ChatApp.Mobile.Android",
+        "projectPath": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.Android\\ChatApp.Mobile.Android.csproj",
+        "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.csproj": {
+                "projectPath": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client.Core": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Xamarin.Essentials.Interfaces": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.csproj",
+        "projectName": "ChatApp.Mobile",
+        "projectPath": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile.csproj",
+        "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikita\\Desktop\\Xamarin-Forms-master\\ChatApp.Mobile\\ChatApp.Mobile\\ChatApp.Mobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-android"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-android34.0": {
+            "targetAlias": "net8.0-android",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-android34.0": {
+          "targetAlias": "net8.0-android",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Xamarin.Essentials.Interfaces": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Android.Ref.34",
+              "version": "[34.0.147, 34.0.147]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

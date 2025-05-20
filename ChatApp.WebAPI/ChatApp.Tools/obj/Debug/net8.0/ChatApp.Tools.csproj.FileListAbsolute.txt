@@ -1,0 +1,11 @@
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\bin\Debug\net8.0\ChatApp.Tools.deps.json
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\bin\Debug\net8.0\ChatApp.Tools.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\bin\Debug\net8.0\ChatApp.Tools.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.AssemblyInfoInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.AssemblyInfo.cs
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.csproj.CoreCompileInputs.cache
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\refint\ChatApp.Tools.dll
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ChatApp.Tools.pdb
+D:\10k\ChatApp.WebAPI\ChatApp.Tools\obj\Debug\net8.0\ref\ChatApp.Tools.dll
